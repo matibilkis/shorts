@@ -18,4 +18,4 @@ git commit -m "$com"
 git push origin "$branch"
 
 echo "Changes added, committed, and pushed successfully."
-$echo $com $brunch
+echo $com $brunch
