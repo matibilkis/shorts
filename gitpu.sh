@@ -19,4 +19,4 @@ git push origin "$branch"
 
 echo "Changes added, committed, and pushed successfully."
 echo $com
-echo $brunch
+echo $branch
