@@ -17,6 +17,6 @@ git add .
 git commit -m "$com"
 git push origin $branch
 
-echo "Changes added, committed, and pushed successfully."
+echo "Changes added, committed as "echo "$com" echo " and pushed successfully."
 echo $com
 echo $branch
